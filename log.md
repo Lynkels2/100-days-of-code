@@ -16,4 +16,5 @@
 
 ### Day 3: June 27th, 2017
 **Today's Progress**: Today was a good day for me i was able to complete the javascript track. Ran into some basic problems but there's nothing MDN or W3Schools can't solve, Stumbled on Wes Bos 30days javascript challenge i might be trying that too to enhance my skills.
-**Thoughts:**: I feel a bit skeptical about posting my progress on twitter some days might come when i won't be able to post my progress so better thing to do is update my log file everyday. i am really excited about this journey.
+
+**Thoughts:** I feel a bit skeptical about posting my progress on twitter some days might come when i won't be able to post my progress so better thing to do is update my log file everyday. i am really excited about this journey.
