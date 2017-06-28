@@ -6,6 +6,7 @@
 **Today's Progress**: Finished Building a Personal Portfolio on freecodecamp front-end project.
 
 **Thoughts:** I Struggled with completing this project because the codepen environment is a little bit new to me but guess what i finished within 30minutes of starting out.
+
 **Link to work:** [Personal Profile] https://codepen.io/gift_e/pen/PjJjYw
 (https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
 
@@ -18,3 +19,10 @@
 **Today's Progress**: Today was a good day for me i was able to complete the javascript track. Ran into some basic problems but there's nothing MDN or W3Schools can't solve, Stumbled on Wes Bos 30days javascript challenge i might be trying that too to enhance my skills.
 
 **Thoughts:** I feel a bit skeptical about posting my progress on twitter some days might come when i won't be able to post my progress so better thing to do is update my log file everyday. i am really excited about this journey.
+
+### Day 4: June 28th, 2017
+**Today's Progress**: I was able to complete the Object and functional programming challenges. Now tackling the algorithm challenges i'll be starting Wes Bos javascript 30days challenge #fingers crossed hope it goes well.
+
+**Thoughts:** I have been stuck on certain challenges and felt programming is too hard for me but i keep reminding myself the journey is not a smooth one. Look forward to reading this in few months and thinking to myself i made the right choice. too much story....
+
+**Link to work:** https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables
