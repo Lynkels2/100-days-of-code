@@ -27,6 +27,8 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables
 ### Day 5: June 29th, 2017
+
 **Today's Progress**: Started Javascript 30 Day 1 challenge was to make a javascript drum kit. i enjoyed every bit of it and learnt some new tips from the master himself Wes bos.
+
 **Thoughts:** I'm loving this day by day. 
 **Link to work:** https://codepen.io/gift_e/pen/OgQmZE
