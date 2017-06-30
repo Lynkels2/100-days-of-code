@@ -35,7 +35,7 @@
 
 **Link to work:** https://codepen.io/gift_e/pen/OgQmZE
 
-### Day 8: June 30th 2017
+### Day 6: June 30th 2017
 
 **Today's Progress**: Started Javascript 30 Day 1 challenge was to make a javascript drum kit. i enjoyed every bit of it and learnt some new tips from the master himself Wes bos.
 
