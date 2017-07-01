@@ -29,16 +29,18 @@
 
 ### Day 5: June 29th, 2017
 
-**Today's Progress**: Engaged myself with some documentation of MDN javascript, Learnt about javascript hoisting and css :root 
+**Today's Progress**:  Started Javascript 30 Day 1 challenge was to make a javascript drum kit. i enjoyed every bit of it and learnt some new tips from the master himself Wes bos.
 
 **Thoughts:** I'm loving this day by day. 
 
-**Link to work:** https://codepen.io/gift_e/pen/OgQmZE
+**Link to work:**: https://codepen.io/gift_e/pen/OgQmZE
 
 ### Day 6: June 30th 2017
 
-**Today's Progress**: Started Javascript 30 Day 1 challenge was to make a javascript drum kit. i enjoyed every bit of it and learnt some new tips from the master himself Wes bos.
+**Today's Progress**: Engaged myself with some documentation of MDN javascript, Learnt about javascript hoisting and Css variables, finished day 3 of my #js30 challenge.
 
 **Thoughts:** It's getting challenging but the goal is to be at the top.. 
 
+
+**Link to work:**: https://codepen.io/gift_e/full/mwxVaV/
 
