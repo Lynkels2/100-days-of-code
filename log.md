@@ -37,10 +37,18 @@
 
 ### Day 6: June 30th 2017
 
-**Today's Progress**: Engaged myself with some documentation of MDN javascript, Learnt about javascript hoisting and Css variables, finished day 3 of my #js30 challenge.
+**Today's Progress**: Engaged myself with some documentation of MDN javascript, Learnt about javascript hoisting and Css variables, finished day 2 of my #js30 challenge i made a css clock.
 
 **Thoughts:** It's getting challenging but the goal is to be at the top.. 
 
 
 **Link to work:**: https://codepen.io/gift_e/full/mwxVaV/
 
+### Day 7: July 1st 2017
+
+**Today's Progress**: Continued my challenges on freecodecamp still on the algorithm track. Got the hang of some javascript string concepts then with my javascript30 challenge worked wih Css variables. 
+
+**Thoughts:**: I am really excited about this journey. 
+
+
+**Link to work**: https://codepen.io/gift_e/pen/mwxVaV. https://www.freecodecamp.org/challenges/truncate-a-string
