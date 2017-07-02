@@ -52,3 +52,13 @@
 
 
 **Link to work**: https://codepen.io/gift_e/pen/mwxVaV. https://www.freecodecamp.org/challenges/truncate-a-string
+
+### Day 8: July 2nd 2017
+
+**Today's Progress**: Rounded up with Array Cadio 1 and Css flexbox on my javscript30 challenge started working on front end projects on freecodecamp righ now i'm on random quote machine.
+
+**Thoughts:**: We're pushing it. lool 😎😎😎. i published an aricle on medium todays as regards my journey. you can find ha here: https://medium.com/@laurandidi21/bants-100days0fcode-challenge-d5f9deaf92bc
+
+
+**Link to work**: Random Quote Machine: https://codepen.io/gift_e/pen/vZRQwQ/
+Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
