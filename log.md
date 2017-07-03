@@ -62,3 +62,11 @@
 
 **Link to work**: Random Quote Machine: https://codepen.io/gift_e/pen/vZRQwQ/
 Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
+
+###Day 9: July 3rd 2017
+
+**Today's Progress**: Today i worked on the weather map using Darksky Api and also finished a laravel application with instragram integration.
+
+**Thoughts:** Today was a lon day spent most of it debugging my code.
+
+**link to work**: https://codepen.io/gift_e/pen/eRrGOr
