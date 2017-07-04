@@ -67,6 +67,15 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **Today's Progress**: Today i worked on the weather map using Darksky Api and also finished a laravel application with instragram integration.
 
-**Thoughts:** Today was a lon day spent most of it debugging my code.
+**Thoughts:** Today was a long day spent most of it debugging my code.
 
 **link to work**: https://codepen.io/gift_e/pen/eRrGOr
+
+###Day 10: July 4th 2017
+
+**Today's Progress**: I finished working on the weather map using DarkSky Api and built a simple type head with Location Api that fetchs list of states and cities in nigeria
+
+**Thoughts:** I'm loving this journey. 90days here i come.🙋🙋🙋
+
+**link to work**: Weather App: https://codepen.io/gift_e/pen/eRrGOr
+				Location Api: https://codepen.io/gift_e/pen/mwKRdW
