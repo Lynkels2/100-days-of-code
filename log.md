@@ -79,3 +79,11 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **link to work**: Weather App: https://codepen.io/gift_e/pen/eRrGOr
 				Location Api: https://codepen.io/gift_e/pen/mwKRdW
+
+###Day 11: July 5th 2017
+
+**Today's Progress**: For my Thir project i'm working on a wikipedia viewer what this basically do is search and display content from wikipedia using a request from an Api. i'm halfway done with it will finish  tomorrow
+
+**Thoughts:** Whoop Whoop. i'm excited about this journey.
+
+**link to work**: Wikipedia viewer: https://codepen.io/gift_e/pen/QgxYdp
