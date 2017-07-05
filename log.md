@@ -63,7 +63,7 @@
 **Link to work**: Random Quote Machine: https://codepen.io/gift_e/pen/vZRQwQ/
 Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
-###Day 9: July 3rd 2017
+### Day 9: July 3rd 2017
 
 **Today's Progress**: Today i worked on the weather map using Darksky Api and also finished a laravel application with instragram integration.
 
@@ -71,7 +71,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **link to work**: https://codepen.io/gift_e/pen/eRrGOr
 
-###Day 10: July 4th 2017
+### Day 10: July 4th 2017
 
 **Today's Progress**: I finished working on the weather map using DarkSky Api and built a simple type head with Location Api that fetchs list of states and cities in nigeria
 
@@ -80,7 +80,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 **link to work**: Weather App: https://codepen.io/gift_e/pen/eRrGOr
 				Location Api: https://codepen.io/gift_e/pen/mwKRdW
 
-###Day 11: July 5th 2017
+### Day 11: July 5th 2017
 
 **Today's Progress**: For my Thir project i'm working on a wikipedia viewer what this basically do is search and display content from wikipedia using a request from an Api. i'm halfway done with it will finish  tomorrow
 
