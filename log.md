@@ -87,3 +87,9 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 **Thoughts:** Whoop Whoop. i'm excited about this journey.
 
 **link to work**: Wikipedia viewer: https://codepen.io/gift_e/pen/QgxYdp
+
+### Day 12: July 6th 2017
+
+**Today's Progress**: I was able to complete Array Cardio on my javascript30 challenge learnt about the .some,.many,.find arrays in javascript also completed the Html Canvas challenge it's a shame i can't put that on codepen. i'll have to check that out later. Still working on my wikipedia app should be done tomorrow.
+
+**Thoughts**: I'm enjoying this journey i have been slacking behind a bit with updating my progress but i'll improve on that. i really want to start writing maybe a personal blog or on wordpress.
