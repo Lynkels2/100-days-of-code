@@ -90,6 +90,27 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 ### Day 12: July 6th 2017
 
-**Today's Progress**: I was able to complete Array Cardio on my javascript30 challenge learnt about the .some,.many,.find arrays in javascript also completed the Html Canvas challenge it's a shame i can't put that on codepen. i'll have to check that out later. Still working on my wikipedia app should be done tomorrow.
+**Today's Progress**: I was able to complete Array Cardio on my javascript30 challenge learnt about the .some, .many, .find arrays in javascript also completed the Html Canvas challenge it's a shame i can't put that on codepen. i'll have to check that out later. Still working on my wikipedia app should be done tomorrow.
 
 **Thoughts**: I'm enjoying this journey i have been slacking behind a bit with updating my progress but i'll improve on that. i really want to start writing maybe a personal blog or on wordpress.
+
+### Day 13: July 7th 2017
+
+**Today's Progress**: today i did some touch up to the wikipedia and finished with it completed the users stories.Ialso completed my Html Canvas on javascript 30.i was taking a course on codecademy a year ago PHP to be precise i completed it today. Finnaly i learnt about Arrays and Functions now understand the logic behind it.
+
+**Thoughts**: I'm improving and i'm loving it 🙋🙋🙋
+
+**link to work**: Wikipedia viewer: https://codepen.io/gift_e/pen/QgxYdp
+
+
+### Day 14: July 8th 2017
+
+**Today's Progress**: Saturday i spent the whole on twitter mostly don't get me wrong i did some coding but i wasn't feeling too much motivation i did my javascript 30 challenge 
+and learnt some console tricks. 
+
+**Thoughts**: I should really reduce my twitter usage and focus more on coding.
+
+
+
+
+
