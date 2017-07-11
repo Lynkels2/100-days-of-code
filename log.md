@@ -82,7 +82,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 ### Day 11: July 5th 2017
 
-**Today's Progress**: For my Thir project i'm working on a wikipedia viewer what this basically do is search and display content from wikipedia using a request from an Api. i'm halfway done with it will finish  tomorrow
+**Today's Progress**: For my Third project i'm working on a wikipedia viewer what this basically do is search and display content from wikipedia using a request from an Api. i'm halfway done with it will finish  tomorrow
 
 **Thoughts:** Whoop Whoop. i'm excited about this journey.
 
@@ -109,6 +109,25 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 and learnt some console tricks. 
 
 **Thoughts**: I should really reduce my twitter usage and focus more on coding.
+
+### Day 15: July 9th 2017
+
+**Today's Progress**: I started working on Twitch api project last one on the intermediate front-end projects thinking on doing something a little different so i just designed the html will start working on the js this night. On Javascript30 i redesigned my Css clock and currently checking out Hold shift and check boxes.
+
+**Thoughts**: I should really reduce my twitter usage and focus more on coding.
+
+**Link to work**: Html Canvas: https://codepen.io/gift_e/pen/bRQKGQ
+
+### Day 16: July 10th 2017
+
+**Today's Progress**: Still working on Twitch api project last one on the intermediate front-end projects. i also completed some algorithm challange on fcc and completed a custom html video player on #javascript 30 track. 
+
+**Thoughts**: Today i felt a lil burn out. couldn't focus to achieve much of the tasks i said i was gonna complete but still i got to be motivated.
+
+**Link to work**: Custom video player:https://codepen.io/gift_e/pen/pwQVYB
+				Multiple Checklist: https://codepen.io/gift_e/pen/GEwGJx
+
+
 
 
 
