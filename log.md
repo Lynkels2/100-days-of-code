@@ -7,8 +7,8 @@
 
 **Thoughts:** I Struggled with completing this project because the codepen environment is a little bit new to me but guess what i finished within 30minutes of starting out.
 
-**Link to work:** [Personal Profile] https://codepen.io/gift_e/pen/PjJjYw
-(https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
+**Link to work:** [Personal Profile](https://codepen.io/gift_e/pen/PjJjYw)
+					[portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
 
 ### Day 2: June 26th, 2017
 **Today's Progress**: On the Javascript track on freecodecamp. I was able to complete the Basic front-end projects. 
@@ -57,11 +57,11 @@
 
 **Today's Progress**: Rounded up with Array Cadio 1 and Css flexbox on my javscript30 challenge started working on front end projects on freecodecamp righ now i'm on random quote machine.
 
-**Thoughts:**: We're pushing it. lool 😎😎😎. i published an aricle on medium todays as regards my journey. you can find ha here: https://medium.com/@laurandidi21/bants-100days0fcode-challenge-d5f9deaf92bc
+**Thoughts:**: We're pushing it. lool 😎😎😎. i published an aricle on medium todays as regards my journey. you can find  here: [Meduim Post](https://medium.com/@laurandidi21/bants-100days0fcode-challenge-d5f9deaf92bc)
 
 
-**Link to work**: Random Quote Machine: https://codepen.io/gift_e/pen/vZRQwQ/
-Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
+**Link to work**: [Random Quote Machine](https://codepen.io/gift_e/pen/vZRQwQ/)
+					[Css Flexbox](https://codepen.io/gift_e/pen/wemmEL)
 
 ### Day 9: July 3rd 2017
 
@@ -69,7 +69,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **Thoughts:** Today was a long day spent most of it debugging my code.
 
-**link to work**: https://codepen.io/gift_e/pen/eRrGOr
+**link to work**: [weather app](https://codepen.io/gift_e/pen/eRrGOr)
 
 ### Day 10: July 4th 2017
 
@@ -77,8 +77,8 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **Thoughts:** I'm loving this journey. 90days here i come.🙋🙋🙋
 
-**link to work**: Weather App: https://codepen.io/gift_e/pen/eRrGOr
-				Location Api: https://codepen.io/gift_e/pen/mwKRdW
+**link to work**: [Weather App]( https://codepen.io/gift_e/pen/eRrGOr)
+				[Location Api]( https://codepen.io/gift_e/pen/mwKRdW)
 
 ### Day 11: July 5th 2017
 
@@ -86,7 +86,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **Thoughts:** Whoop Whoop. i'm excited about this journey.
 
-**link to work**: Wikipedia viewer: https://codepen.io/gift_e/pen/QgxYdp
+**link to work**: [Wikipedia viewer](https://codepen.io/gift_e/pen/QgxYdp)
 
 ### Day 12: July 6th 2017
 
@@ -100,7 +100,7 @@ Css Flexbox: https://codepen.io/gift_e/pen/wemmEL
 
 **Thoughts**: I'm improving and i'm loving it 🙋🙋🙋
 
-**link to work**: Wikipedia viewer: https://codepen.io/gift_e/pen/QgxYdp
+**link to work**: [Wikipedia viewer](https://codepen.io/gift_e/pen/QgxYdp)
 
 
 ### Day 14: July 8th 2017
@@ -116,7 +116,7 @@ and learnt some console tricks.
 
 **Thoughts**: I should really reduce my twitter usage and focus more on coding.
 
-**Link to work**: Html Canvas: https://codepen.io/gift_e/pen/bRQKGQ
+**Link to work**: [Html Canvas](https://codepen.io/gift_e/pen/bRQKGQ)
 
 ### Day 16: July 10th 2017
 
@@ -124,15 +124,15 @@ and learnt some console tricks.
 
 **Thoughts**: Today i felt a lil burn out. couldn't focus to achieve much of the tasks i said i was gonna complete but still i got to be motivated.
 
-**Link to work**: Custom video player:https://codepen.io/gift_e/pen/pwQVYB
-				Multiple Checklist: https://codepen.io/gift_e/pen/GEwGJx
+**Link to work**: [Custom video player](https://codepen.io/gift_e/pen/pwQVYB)
+				[Multiple Checklist](https://codepen.io/gift_e/pen/GEwGJx)
 ### Day 17: July 11th 2017
 
 **Today's Progress**: I did some algorithm challenge on freecodecamp read some articles and couldn't do my js30 challenge because the server was having issues so i did what i was able to do on freecodecamp finishing touches on twitch tv api
 
 **Thoughts** The journey has been a swift one i'll say i'm already getting used to it.
 
-**Lin to work** https://www.freecodecamp.org/challenges/pig-latin
+**Lin to work** [Pig-Latin Algorithm](https://www.freecodecamp.org/challenges/pig-latin)
 
 ### Day 18: July 12th 2017
 
