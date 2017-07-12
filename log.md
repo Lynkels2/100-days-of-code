@@ -120,12 +120,26 @@ and learnt some console tricks.
 
 ### Day 16: July 10th 2017
 
-**Today's Progress**: Still working on Twitch api project last one on the intermediate front-end projects. i also completed some algorithm challange on fcc and completed a custom html video player on #javascript 30 track. 
+**Today's Progress**: Still working on Twitch api project last one on the intermediate front-end projects. i also completed some algorithm challange on fcc and completed a custom html video player on #javascript 30 track. Yaay i started Blogging
 
 **Thoughts**: Today i felt a lil burn out. couldn't focus to achieve much of the tasks i said i was gonna complete but still i got to be motivated.
 
 **Link to work**: Custom video player:https://codepen.io/gift_e/pen/pwQVYB
 				Multiple Checklist: https://codepen.io/gift_e/pen/GEwGJx
+### Day 17: July 11th 2017
+
+**Today's Progress**: I did some algorithm challenge on freecodecamp read some articles and couldn't do my js30 challenge because the server was having issues so i did what i was able to do on freecodecamp finishing touches on twitch tv api
+
+**Thoughts** The journey has been a swift one i'll say i'm already getting used to it.
+
+**Lin to work** https://www.freecodecamp.org/challenges/pig-latin
+
+### Day 18: July 12th 2017
+
+**Today's Progress**: So today i completed two challenges on javascript 30 it was fun i have some ideas on things i want to create out of what i learnt today will do that on codepen  so i'll update that when it is done.
+
+**Thoughts**: Today i feel better than the past few days i'm feeling pumped and motivated.
+
 
 
 
