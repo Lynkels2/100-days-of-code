@@ -140,9 +140,18 @@ and learnt some console tricks.
 
 **Thoughts**: Today i feel better than the past few days i'm feeling pumped and motivated.
 
+### Day 19: July 13th 2017
+
+**Today's Progress**: So today i completed two challenges on javascript 30 it was fun i have some ideas on things i want to create out of what i learnt today will do that on codepen  so i'll update that when it is done.
+
+**Thoughts**: Today i feel better than the past few days i'm feeling pumped and motivated.
 
 
+### Day 20: July 14th 2017
 
+**Today's Progress**: Yaay Day 20 i've been doing well haven't i? i'm happy i'm making progress today i completed some algorithm challange on fcc didn't do much cuz i was out making up fot it today.
+
+**Thoughts**: I think i need to check out more tutorials like freecodecamp because i'll soon finish the front end track on there.
 
 
 
