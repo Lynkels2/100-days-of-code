@@ -142,16 +142,25 @@ and learnt some console tricks.
 
 ### Day 19: July 13th 2017
 
-**Today's Progress**: So today i completed two challenges on javascript 30 it was fun i have some ideas on things i want to create out of what i learnt today will do that on codepen  so i'll update that when it is done.
-
-**Thoughts**: Today i feel better than the past few days i'm feeling pumped and motivated.
+**Today's Progress**: I did more on javascript 30 track today and freecodecamp algorithm. Truth now is the Algorithm challenges hasn't been easy just when i thought i know how this particular thing works i discover i got it wrong. Still practicing the aim of oing this is to become a better developer
+**Thoughts**: Less is more...learnt that today.
 
 
 ### Day 20: July 14th 2017
 
-**Today's Progress**: Yaay Day 20 i've been doing well haven't i? i'm happy i'm making progress today i completed some algorithm challange on fcc didn't do much cuz i was out making up fot it today.
+**Today's Progress**: Yaay Day 20 i've been doing well haven't i? i'm happy i'm making progress today i completed some algorithm challange on fcc didn't do much cuz i was out making up for it today.
 
 **Thoughts**: I think i need to check out more tutorials like freecodecamp because i'll soon finish the front end track on there.
+
+### Day 21: July 15th 2017
+
+**Today's Progress**: Saturday has got to be one of my lazy days i was able to complete javascript refrencing and copy challange and did some algoritm on freecodecamp.
+**Thoughts**: Twitter has to be my weakness. logging out forever 🎧🎧🎧🎧
+
+### Day 22: July 16th 2017
+
+**Today's Progress**: Finished the intemediate algorithm challange on freecodecamp was able to start up ideas i have for a personal project.
+**Thoughts**: Less talk
 
 
 
