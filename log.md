@@ -143,6 +143,7 @@ and learnt some console tricks.
 ### Day 19: July 13th 2017
 
 **Today's Progress**: I did more on javascript 30 track today and freecodecamp algorithm. Truth now is the Algorithm challenges hasn't been easy just when i thought i know how this particular thing works i discover i got it wrong. Still practicing the aim of oing this is to become a better developer
+
 **Thoughts**: Less is more...learnt that today.
 
 
@@ -155,12 +156,25 @@ and learnt some console tricks.
 ### Day 21: July 15th 2017
 
 **Today's Progress**: Saturday has got to be one of my lazy days i was able to complete javascript refrencing and copy challange and did some algoritm on freecodecamp.
+
 **Thoughts**: Twitter has to be my weakness. logging out forever 🎧🎧🎧🎧
 
 ### Day 22: July 16th 2017
 
-**Today's Progress**: Finished the intemediate algorithm challange on freecodecamp was able to start up ideas i have for a personal project.
-**Thoughts**: Less talk
+**Today's Progress**: Finished the intermediate algorithm challange on freecodecamp was able to start up ideas i have for a personal project.
+
+**Thoughts**: I don't know do i really need to have a thought everyday? just saying lool i was thrilled to have been acknowledge by @JS_tut on twitter whaah!! i know right.
+
+**Links**: [Updated Portfolio:](https://codepen.io/gift_e/pen/RgOgvY)
+
+### Day 23: July 17th 2017
+
+**Today's Progress**: I completed two challenges on javascript 30 track woow huge fit it was fun i did the Mouse folow magic and the sorted array list. Stumbled on a wonderful website for learners it really nice platform for javascript noobs. glad i found it.
+
+**Thoughts**: It's 23days already guys the days are runing fast. can;t wait for day50 i'm gonna give myself a treat hehe working on my personal portfolio. Miss listening to my Spotify 🎧🎧🎧🎧🎧🎧🎧🎧
+
+**Links to work**: [Mouse Over Magic](https://codepen.io/gift_e/pen/ModgLZ)
+					[Array Sort Articles](https://codepen.io/gift_e/pen/bRyNmE)
 
 
 
