@@ -176,6 +176,21 @@ and learnt some console tricks.
 **Links to work**: [Mouse Over Magic](https://codepen.io/gift_e/pen/ModgLZ)
 					[Array Sort Articles](https://codepen.io/gift_e/pen/bRyNmE)
 
+### Day 24: July 18th 2017
+
+**Today's Progress**: Today i was less productive during the day because of power outage but i spent the all night making a blog with jekyll and github pages i usually just see tech blogs and i like it decided to do one for myself i already have one on wordpress but i'll continue with both of them. I also completed some fcc algorithm challenge
+
+**Thoughts**: I miss listening to spotify thank God it's back
+**Links to work**: [My Blog](https://lauragift21.github.io)
+
+### Day 25: July 19th 2017
+
+**Today's Progress**: I played around with css today created a social icon animation on codepen dived into some algorithm and then my js30 course. Good day
+
+**Thoughts**: 25days already and i'm super excited.
+
+**Links to work**: [Social Icons Animated](https://codepen.io/gift_e/pen/qjGKZL)
+
 
 
 
