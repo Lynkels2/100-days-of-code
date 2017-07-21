@@ -126,6 +126,7 @@ and learnt some console tricks.
 
 **Link to work**: [Custom video player](https://codepen.io/gift_e/pen/pwQVYB)
 				[Multiple Checklist](https://codepen.io/gift_e/pen/GEwGJx)
+
 ### Day 17: July 11th 2017
 
 **Today's Progress**: I did some algorithm challenge on freecodecamp read some articles and couldn't do my js30 challenge because the server was having issues so i did what i was able to do on freecodecamp finishing touches on twitch tv api
@@ -181,6 +182,7 @@ and learnt some console tricks.
 **Today's Progress**: Today i was less productive during the day because of power outage but i spent the all night making a blog with jekyll and github pages i usually just see tech blogs and i like it decided to do one for myself i already have one on wordpress but i'll continue with both of them. I also completed some fcc algorithm challenge
 
 **Thoughts**: I miss listening to spotify thank God it's back
+
 **Links to work**: [My Blog](https://lauragift21.github.io)
 
 ### Day 25: July 19th 2017
@@ -191,6 +193,19 @@ and learnt some console tricks.
 
 **Links to work**: [Social Icons Animated](https://codepen.io/gift_e/pen/qjGKZL)
 
+### Day 26: July 20th 2017
+
+**Today's Progress**: I Refactored some of my code and did some javascript 30 challenge.
+
+**Thoughts**: Amazing how time flies it feels like i started this challenge last week it's also one month already.
+
+**Links to work**: [Social Icons Animated](https://codepen.io/gift_e/pen/qjGKZL)
+
+### Day 27: July 21st 2017
+
+**Today's Progress**: Finished working on advanced algorithm challenge on freecodecamp. writing a blog post on how to build  a static website with jekyll and also started the design for my javascript calculator
+
+**Thoughts**: I've been learning a lot lately everyday i learn a new way of doing something it's amazing. I got my highest like on twitter yday lool. 66likes isn't a joke 😃😃😃
 
 
 
