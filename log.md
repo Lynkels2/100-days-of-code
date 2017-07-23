@@ -207,5 +207,14 @@ and learnt some console tricks.
 
 **Thoughts**: I've been learning a lot lately everyday i learn a new way of doing something it's amazing. I got my highest like on twitter yday lool. 66likes isn't a joke 😃😃😃
 
+### Day 28: July 22nd 2017
 
+**Today's Progress**: Continued working on javascript calculator and i started testing out my skills with html and css to build somrthing from scratch in preparation for a coding bootcamp
 
+**Thoughts**: So it's almost a month i started out excited much.
+
+### Day 29: July 23rd 2017
+
+**Today's Progress**: Couldn't do much today but i completed all the video challenges on freecodecamp and still trying to finish my blog post and javascript calculator.
+
+**Thoughts**: Pushing to github everyday has been challenging but i'm working on always having a remainder to always do that.
