@@ -218,3 +218,9 @@ and learnt some console tricks.
 **Today's Progress**: Couldn't do much today but i completed all the video challenges on freecodecamp and still trying to finish my blog post and javascript calculator.
 
 **Thoughts**: Pushing to github everyday has been challenging but i'm working on always having a remainder to always do that.
+
+### Day 30: July 24th 2017
+
+**Today's Progress*: i didn't do much on coding today i read some articles on rest api and continued work on my calculator project and also javascript 30 course.
+
+**Thoughts** : Falling out lately have to make efforts to catch up. Anyways it's makes it a month since i started this journey.
