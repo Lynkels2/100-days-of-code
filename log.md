@@ -221,6 +221,27 @@ and learnt some console tricks.
 
 ### Day 30: July 24th 2017
 
-**Today's Progress*: i didn't do much on coding today i read some articles on rest api and continued work on my calculator project and also javascript 30 course.
+**Today's Progress**: i didn't do much on coding today i read some articles on rest api and continued work on my calculator project and also javascript 30 course.
 
 **Thoughts** : Falling out lately have to make efforts to catch up. Anyways it's makes it a month since i started this journey.
+
+### Day 31: July 25th 2017
+
+**Today's Progress**: Making progress with javascript calculator i had to change styling twice because i wasn't satisfied with the previous one. Good jouney statred writing the javascript i sort out help from the text books
+
+**Thoughts**: it was a great day.
+
+**Link to work**: [Calculator](https://codepen.io/gift_e/pen/EvYKXw)
+
+### Day 32: July 26th 2017
+
+**Today's Progress**: Finished working on the calculator app on freecodecamp track. I was able to complete this mini project after a long time of debugguing statred working on pomodoro clock app.
+
+**Thoughts**: this one  took me days because i was a bit confused about the whole calculator thing. 
+
+
+
+
+
+
+
