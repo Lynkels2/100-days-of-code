@@ -235,9 +235,24 @@ and learnt some console tricks.
 
 ### Day 32: July 26th 2017
 
-**Today's Progress**: Finished working on the calculator app on freecodecamp track. I was able to complete this mini project after a long time of debugguing statred working on pomodoro clock app.
+**Today's Progress**: Finished working on the calculator app on freecodecamp track. I was able to complete this mini project after a long time of debugguing started working on pomodoro clock app.
 
 **Thoughts**: this one  took me days because i was a bit confused about the whole calculator thing. 
+
+### Day 33: July 27th 2017
+
+**Today's Progress**: I must confess i didn't do much today because i had several things that tok a hold of my time but still i was able to continue my pomodoro clock and did some refactoring to the javascript calculator. and i attended gdg lagos it was a great event.
+
+**Thought's** : I have done so much in this few days willing to try more to make things work
+
+### Day34: July 28th 2017
+
+**Today's Progress**: I must confess i didn't do much today because i had several things that tok a hold of my time but still i was able to continue my pomodoro clock and did some refactoring to the javascript calculator. and i attended gdg lagos it was a great event.
+
+### Day35: July 29th 2017
+
+**Today's Progress**:  For today i'll be completed my javascript 30 track follow along links and i attended another meetup yaay.
+
 
 
 
