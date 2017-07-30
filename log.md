@@ -237,7 +237,10 @@ and learnt some console tricks.
 
 **Today's Progress**: Finished working on the calculator app on freecodecamp track. I was able to complete this mini project after a long time of debugguing started working on pomodoro clock app.
 
-**Thoughts**: this one  took me days because i was a bit confused about the whole calculator thing. 
+**Thoughts**: this one  took me days because i was a bit confused about the whole calculator thing.
+
+**Link to work**: [Calculator](https://codepen.io/gift_e/pen/EvYKXw)
+
 
 ### Day 33: July 27th 2017
 
@@ -245,18 +248,29 @@ and learnt some console tricks.
 
 **Thought's** : I have done so much in this few days willing to try more to make things work
 
+**Link to work**: [Calculator](https://codepen.io/gift_e/pen/EvYKXw)
+
+
 ### Day34: July 28th 2017
 
 **Today's Progress**: I must confess i didn't do much today because i had several things that tok a hold of my time but still i was able to continue my pomodoro clock and did some refactoring to the javascript calculator. and i attended gdg lagos it was a great event.
 
+**Link to work**: [Calculator](https://codepen.io/gift_e/pen/EvYKXw)
+
+
 ### Day35: July 29th 2017
 
-**Today's Progress**:  For today i'll be completed my javascript 30 track follow along links and i attended another meetup yaay.
+**Today's Progress**:  For today i'll be completing my javascript 30 track follow along links and speech sythensis i attended another meetup yaay.
+
+**Thought's** : I have done so much in this few days willing to try more to make things work
+
+**Link to work**: [Speech Sythensis](https://codepen.io/gift_e/pen/yoexEX)
 
 
+### Day36: July 30th 2017
 
+**Today's Progress**:  I worked mostly on javascript 30 today was able to complete bith sticky Nav and Event Capture and propagtion it was fun working on these projects.
 
+**Thought's** : 36 days of awesomeness epa thought they could stop my shine but Nah they didn't excited that am making progress and soon rounding up with javascript 30
 
-
-
-
+**Link to work**: [Sticky Nav](https://codepen.io/gift_e/pen/xLZQwZ)S
