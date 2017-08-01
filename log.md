@@ -273,4 +273,21 @@ and learnt some console tricks.
 
 **Thought's** : 36 days of awesomeness epa thought they could stop my shine but Nah they didn't excited that am making progress and soon rounding up with javascript 30
 
-**Link to work**: [Sticky Nav](https://codepen.io/gift_e/pen/xLZQwZ)S
+**Link to work**: [Sticky Nav](https://codepen.io/gift_e/pen/xLZQwZ)
+
+### Day37: July 31st 2017
+
+**Today's Progress**:  I made progress with the pomodoro clock it's been daunting how i feel stuck on what i have not even started pushing myself every single day.
+
+**Thought's** : Great Day!!!
+
+**Link to work**: [Pomodoro Clock](https://codepen.io/gift_e/pen/gxpZpb)
+
+
+### Day38: August 1st 2017
+
+**Today's Progress**:  I worked on javascript 30 Follow along nav this was so interesting even though i caught myself sleeping sometimes.mi recreated my own version for this project.
+
+**Thought's** : i'm loving my journey ciuntdown to day50 throwing a party. lool😬😬😬😬😬
+
+**Link to work**: [Follow Along Nav](https://codepen.io/gift_e/pen/brewGz)
