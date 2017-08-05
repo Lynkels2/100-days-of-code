@@ -291,3 +291,32 @@ and learnt some console tricks.
 **Thought's** : i'm loving my journey ciuntdown to day50 throwing a party. lool😬😬😬😬😬
 
 **Link to work**: [Follow Along Nav](https://codepen.io/gift_e/pen/brewGz)
+
+###Day39: August 2nd 2017
+
+**Today's Progress**:  I made progress with pomodoro cock from my freecodecamp projects about time i get done with this. Had several ideas o how i want it look but it's al in my head putting in more effort to complete it before the week runs out
+
+**Thought's** : Life Update i'm enjoyig this journey so far
+
+###Day40: August 3rd 2017
+
+**Today's Progress**:  I continued workig on the pomodoro project got my hands dirty with some git tutorials i found and touched a part of javascript30
+
+**Thought's** :Lesson Learnt life doesn't come easy.
+
+###Day41: August 4th 2017
+
+**Today's Progress**:  Man I'm really sacking with progress on this i had some bad flu/headache today made me too weak to do anything but i was able to comple this sweet javascript timer that changes background colour accordding to the time.
+
+**Thought's** : I need a vacation. that was random
+
+###Day42: August 5th 2017
+
+**Today's Progress**:  Still not feeling good but i'd rather do this than sleep so i'm finishing pomodoro today and rounding up with javascript30. I also have a pending blogpost on making a website with jekyll. i need to finish that one. Countdown to day50
+
+**Thought's** : Life Update i'm enjoying this journey so far
+
+
+
+
+
