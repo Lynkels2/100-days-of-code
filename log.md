@@ -314,8 +314,7 @@ and learnt some console tricks.
 
 **Today's Progress**:  Still not feeling good but i'd rather do this than sleep so i'm finishing pomodoro today and rounding up with javascript30. I also have a pending blogpost on making a website with jekyll. i need to finish that one. Countdown to day50
 
-**Thought's** : Life Update i'm enjoying this journey so far
-
+**Thought's** : I Can't wait to see what i end up doing at the end of this journey.
 
 
 
