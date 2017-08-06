@@ -316,6 +316,15 @@ and learnt some console tricks.
 
 **Thought's** : I Can't wait to see what i end up doing at the end of this journey.
 
+### Day43: August 6th 2017
+
+**Today's Progress**:  Wrapped up with pomodoro clock on freecodecamp finally this one took a ot of time i came across a google challange for google assistant signed up will be trying out my luck with that at least improve my knowledge and got my frist pr merged.Good day innit.
+
+**Thought's** : Today was kinda long i spent all of it in front of my laptop. i pity my eyes.
+
+
+
+
 
 
 
