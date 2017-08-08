@@ -298,17 +298,24 @@ and learnt some console tricks.
 
 **Thought's** : Life Update i'm enjoyig this journey so far
 
+**Link to work**: [Pomodoro Clock](https://codepen.io/gift_e/pen/gxpZpb)
+
 ### Day40: August 3rd 2017
 
 **Today's Progress**:  I continued workig on the pomodoro project got my hands dirty with some git tutorials i found and touched a part of javascript30
 
 **Thought's** :Lesson Learnt life doesn't come easy.
 
+**Link to work**: [Pomodoro Clock](https://codepen.io/gift_e/pen/gxpZpb)
+
 ### Day41: August 4th 2017
 
 **Today's Progress**:  Man I'm really sacking with progress on this i had some bad flu/headache today made me too weak to do anything but i was able to comple this sweet javascript timer that changes background colour accordding to the time.
 
 **Thought's** : I need a vacation. that was random
+
+**Link to work**: [Pomodoro Clock](https://codepen.io/gift_e/pen/gxpZpb)
+
 
 ### Day42: August 5th 2017
 
@@ -318,9 +325,26 @@ and learnt some console tricks.
 
 ### Day43: August 6th 2017
 
-**Today's Progress**:  Wrapped up with pomodoro clock on freecodecamp finally this one took a ot of time i came across a google challange for google assistant signed up will be trying out my luck with that at least improve my knowledge and got my frist pr merged.Good day innit.
+**Today's Progress**:  Wrapped up with pomodoro clock on freecodecamp finally this one took a ot of time i came across a google challange for google assistant signed up will be trying out my luck with that at least improve my knowledge and got my first pr merged.Good day innit.
 
 **Thought's** : Today was kinda long i spent all of it in front of my laptop. i pity my eyes.
+
+**Link to work**: [Pomodoro Clock](https://codepen.io/gift_e/pen/gxpZpb)
+
+
+### Day44: August 7th 2017
+
+**Today's Progress**:  Finally finished with pomodoro time got tired of updating progress n it. Started tic tzc toe today basic logic and UI in progress.
+
+**Thought's** : UP ME;
+
+**Link to work** [TicTacToe](https://codepen.io/gift_e/pen/KvWKpM)
+
+### Day45: August 8th 2017
+
+**Today's Progress**:  Worked on javascript 30 Video controler Ui Interesting project.
+
+**Thought's** it's all coming together now.
 
 
 
