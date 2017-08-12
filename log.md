@@ -325,7 +325,7 @@ and learnt some console tricks.
 
 ### Day43: August 6th 2017
 
-**Today's Progress**:  Wrapped up with pomodoro clock on freecodecamp finally this one took a ot of time i came across a google challange for google assistant signed up will be trying out my luck with that at least improve my knowledge and got my first pr merged.Good day innit.
+**Today's Progress**:  Wrapped up with pomodoro clock on freecodecamp finally this one took a lot of time i came across a google challange for google assistant signed up will be trying out my luck with that at least improve my knowledge and got my first pr merged.Good day innit.
 
 **Thought's** : Today was kinda long i spent all of it in front of my laptop. i pity my eyes.
 
@@ -334,7 +334,7 @@ and learnt some console tricks.
 
 ### Day44: August 7th 2017
 
-**Today's Progress**:  Finally finished with pomodoro time got tired of updating progress n it. Started tic tzc toe today basic logic and UI in progress.
+**Today's Progress**:  Finally finished with pomodoro time got tired of updating progress in it. Started tic tac toe today basic logic and UI in progress.
 
 **Thought's** : UP ME;
 
@@ -345,6 +345,22 @@ and learnt some console tricks.
 **Today's Progress**:  Worked on javascript 30 Video controler Ui Interesting project.
 
 **Thought's** it's all coming together now.
+
+### Day46: August 9th  2017
+
+**Today's Progress**: Good day the Whack a mole project is the last project on  JavaScript 30 course. and i completed that Today. Way to go..💃
+
+### Day47: August 10th 2017
+**Today's Progress**: Done and Dusted JavaScript 30 back to freecodecamp projects Tictactoe haven’t touched that in a while. I resumed work on it hoping to complete it within the weekend.
+
+### Day48: August 11th 2017
+**Today's Progress**: Yaay!!  One more day  before i throw a party… Kidding i’m excited I’ve gone this far looking out for more resources i can use for the remaining part of the challenge and i also possible projects i can work on.
+
+### Day49: August 12th 2017
+
+**Today's Progress**: I had several things to do that i could hardly find time to continue coding. Had a hard time setting up ubutu for windows but yeah i finally solved it.Yaaay Day 50 tomorrow i'm growing but not the way i wouldf have imagined if not for #100Daysofcode
+
+**Link to work** [Weekly Update](https://giftegwuenu.wordpress.com/2017/08/12/my-journey-so-far-100daysofcode-day-43-day-49/)
 
 
 
