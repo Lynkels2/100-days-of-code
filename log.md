@@ -362,6 +362,14 @@ and learnt some console tricks.
 
 **Link to work** [Weekly Update](https://giftegwuenu.wordpress.com/2017/08/12/my-journey-so-far-100daysofcode-day-43-day-49/)
 
+### Day50: August 13th 2017
+
+**Today's Progress**: Woow day50 halfway down this challange i continued working on tic tac toe from freecodecamp need to put in more effort in finishing this.
+
+### Day51: August 14th 2017
+
+**Today's Progress**: COuldn't do anything today feeling down have issues with my sytem and work. it'll get better i know.
+
 
 
 
