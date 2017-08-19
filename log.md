@@ -351,14 +351,16 @@ and learnt some console tricks.
 **Today's Progress**: Good day the Whack a mole project is the last project on  JavaScript 30 course. and i completed that Today. Way to go..💃
 
 ### Day47: August 10th 2017
+
 **Today's Progress**: Done and Dusted JavaScript 30 back to freecodecamp projects Tictactoe haven’t touched that in a while. I resumed work on it hoping to complete it within the weekend.
 
 ### Day48: August 11th 2017
+
 **Today's Progress**: Yaay!!  One more day  before i throw a party… Kidding i’m excited I’ve gone this far looking out for more resources i can use for the remaining part of the challenge and i also possible projects i can work on.
 
 ### Day49: August 12th 2017
 
-**Today's Progress**: I had several things to do that i could hardly find time to continue coding. Had a hard time setting up ubutu for windows but yeah i finally solved it.Yaaay Day 50 tomorrow i'm growing but not the way i wouldf have imagined if not for #100Daysofcode
+**Today's Progress**: I had several things to do that i could hardly find time to continue coding. Had a hard time setting up ubuntu for windows but yeah i finally solved it.Yaaay Day 50 tomorrow i'm growing but not the way i would have imagined if not for #100Daysofcode
 
 **Link to work** [Weekly Update](https://giftegwuenu.wordpress.com/2017/08/12/my-journey-so-far-100daysofcode-day-43-day-49/)
 
@@ -366,12 +368,34 @@ and learnt some console tricks.
 
 **Today's Progress**: Woow day50 halfway down this challange i continued working on tic tac toe from freecodecamp need to put in more effort in finishing this.
 
-### Day51: August 14th 2017
+### Day50/: August 14th 2017
 
-**Today's Progress**: COuldn't do anything today feeling down have issues with my sytem and work. it'll get better i know.
+**Today's Progress**: COuldn't do anything today feeling down have issues with my laptop and work. it'll get better i know.
+
+### Day51: August 15th 2017
+
+**Today's Progress**: I was able to get my laptop back up and running so i got back to coding Tictactoe project and also found some usefu; resources onie that i read.
+
+**Thoughts**: I went through a lot this weekend laptop wanted to fail me but i refused. So this is me trying to switch from windows to ubuntu and in the process i destroyed the laptop.
+
+### Day 52: August 16th 2017
+
+**Today's Progress**: I was able to complete the design and styling for tictactoe now i have to figure out the logical part that's javascript. Besides i av started looking iut for what next on my list of learning.
+
+**Thoughts** Arguable i don't regret going through the stress i went through because right now i'm madly in love with ubuntu.
+
+### Day 53: August 17th 2017
+
+**Today's Progress**: Work still in progress this has been the slowest project i have worked on o freecodecamp but i'm still pushing.
+
+**Thoughts** I'm really ooking forward to collect my Front end certificate.
 
 
+### Day 54: August 18th 2017
 
+**Today's Lessons**: Today was a good day. Good friday i was able to round up at least 95% of tictactoe. I started Wes Bos what the flexbox yeah and it's for a period of 20days wish me luck hope to learn new exciting things.
+
+**Thoughts** It'll be nice if at Day 100 i've built a significant app. Working on that. i also like to make a twitter bot. that's in progress too.
 
 
 
