@@ -397,6 +397,18 @@ and learnt some console tricks.
 
 **Thoughts** It'll be nice if at Day 100 i've built a significant app. Working on that. i also like to make a twitter bot. that's in progress too.
 
+### Day 55: August 19th 2017
+
+**Today's Progress**: I was able to accomplish quiet a good number of things today. For starters i published a post on meduim about my Javascript30 journey, i alsi completed Tic tac Toe project ot perfect yet but there;s room for improvement. I couldn't wait so i started the last project on Freecodecamp Simon Game i was able to complete the Design basic html css now what i;m eft with is the functionality which is javascript and P.S i started What the flexbox by Wes Bos. 
+
+**Thoughts**: So much done today. Tommorow brings the best.
+
+**Links**: [Tictactoe](https://codepen.io/gift_e/pen/dzmbKq)
+[Meduim Post](https://medium.com/@laurandidi21/lesson-learnt-from-taking-javascript30-a2d38a336cdb)
+[Simon Game](https://codepen.io/gift_e/pen/jLzNvq)
+
+
+
 
 
 
