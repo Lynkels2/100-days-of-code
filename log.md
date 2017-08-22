@@ -404,8 +404,19 @@ and learnt some console tricks.
 **Thoughts**: So much done today. Tommorow brings the best.
 
 **Links**: [Tictactoe](https://codepen.io/gift_e/pen/dzmbKq)
-[Meduim Post](https://medium.com/@laurandidi21/lesson-learnt-from-taking-javascript30-a2d38a336cdb)
+[Meduim Post](https://medium.com/@laurandidi21/lesson-learnt-from-taking-javascript30-a2d38a336cdb		)
 [Simon Game](https://codepen.io/gift_e/pen/jLzNvq)
+
+### Day 56: August 20th 2017
+
+**Thoughts**: Today i had a lil time to complete anyhtig spent an hour on youtube watching tutorials and another hour on writing my blog post
+
+**LInks**: [Blog Post](https://giftegwuenu.wordpress.com/2017/08/21/weekly-updates-day-50-day-56/)
+
+
+<!-- ### Day 57: August 21st 2017 -->
+
+
 
 
 
