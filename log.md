@@ -427,6 +427,8 @@ and learnt some console tricks.
 
 ### Day 60: August 25th 2017
 
+**Today's Progress**: Continued working on flex box course i'm taking and refactored my previous code. Starting Web Developer Bootcamp soon.
+
 
 
 
