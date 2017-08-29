@@ -407,29 +407,35 @@ and learnt some console tricks.
 [Meduim Post](https://medium.com/@laurandidi21/lesson-learnt-from-taking-javascript30-a2d38a336cdb		)
 [Simon Game](https://codepen.io/gift_e/pen/jLzNvq)
 
-### Day 56/57: August 20th 2017
+### Day 56/57: August 20/21/22 2017
 
 **Thoughts**: Today i had a lil time to complete anything spent an hour on youtube watching tutorials and another hour on writing my blog post
 
 **LInks**: [Blog Post](https://giftegwuenu.wordpress.com/2017/08/21/weekly-updates-day-50-day-56/)
 
 
-### Day 58: August 21st 2017
+### Day 58: August 23rd 2017
 
 **Today's Progress**: I completed Simon Game from freecodecamp course.
 
 **Thoughts**: I officially completed freecodecamp front-end course whoop whoop. it's has bee two awesome months of fun,stress,learning i'll be moving on to do other courses and improve my knowledge on PHP and JavaScript. i'll still update the apps i built
 
 
-### Day 59: August 24rd 2017
+### Day 59: August 25th 2017
 
 **Today's Progress**: I moved on to my flexbox course with wes bos and i learnt about the flex property. how to use alignment with flexbox i enjoyed it.
 
-### Day 60: August 25th 2017
+### Day 60: August 26th 2017
 
-**Today's Progress**: Continued working on flex box course i'm taking and refactored my previous code. Starting Web Developer Bootcamp soon.
+**Today's Progress**: Continued working on flex box course i'm taking and refactored my previous code. Starting Web Developer Bootcamp soon.🙂🙂
 
+### Day 61: August 27th 2017
 
+**Today's Progress**: Day61 #100DaysOfCode COntinued working with flexbox tutorial and i started the web developer bootcamp. doing the basics html.
+
+### Day 62: August 28th 2017
+
+**Today's Progress**: Day 62 #100DaysOfCode worked on more flex box tutorial and i read some flex box related articles.continued with web developer bootcamp.
 
 
 
