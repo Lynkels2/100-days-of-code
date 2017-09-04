@@ -414,33 +414,51 @@ and learnt some console tricks.
 **LInks**: [Blog Post](https://giftegwuenu.wordpress.com/2017/08/21/weekly-updates-day-50-day-56/)
 
 
-### Day 58: August 23rd 2017
+### Day 58: August 23/24/25rd 2017
 
 **Today's Progress**: I completed Simon Game from freecodecamp course.
 
 **Thoughts**: I officially completed freecodecamp front-end course whoop whoop. it's has bee two awesome months of fun,stress,learning i'll be moving on to do other courses and improve my knowledge on PHP and JavaScript. i'll still update the apps i built
 
 
-### Day 59: August 25th 2017
+### Day 59: August 26th 2017
 
 **Today's Progress**: I moved on to my flexbox course with wes bos and i learnt about the flex property. how to use alignment with flexbox i enjoyed it.
 
-### Day 60: August 26th 2017
+### Day 60: August 27th 2017
 
 **Today's Progress**: Continued working on flex box course i'm taking and refactored my previous code. Starting Web Developer Bootcamp soon.🙂🙂
 
-### Day 61: August 27th 2017
+### Day 61: August 28th 2017
 
 **Today's Progress**: Day61 #100DaysOfCode COntinued working with flexbox tutorial and i started the web developer bootcamp. doing the basics html.
 
-### Day 62: August 28th 2017
+### Day 62: August 29th 2017
 
-**Today's Progress**: Day 62 #100DaysOfCode worked on more flex box tutorial and i read some flex box related articles.continued with web developer bootcamp.
-
-
+**Today's Progress**: More flexbox tutorial and looked through the Bootcamp course discovered I already know most of the basics so I just scribbled through them. I also created a repo on Github for projects I will be working on for the course.worked on more flex box tutorial and i read some flex box related articles.continued with web developer bootcamp.
 
 
+### Day 63: August 30th 2017
 
+**Today's Progress**:I went back to flexbox but this following CSS-tricks articles and some other I could find online. I can’t wait to start doing the projects. 
+
+
+### Day 64: August 31t 2017
+
+**Today's Progress**: Stumbled on Scotch.io Saas Course and decided to add that to the belt. I know it’s getting too much but I’ll find a way to manage all. Btw the course is great you should check it out Sass Tutorial
+
+### Day 65: September 1st 2017
+
+**Today's Progress**: Let the Holiday Begin I had so much time to work on all projects because it was a public holiday and I had fun all through. I worked on flexbox and sass projects. Still on it though.
+
+
+### Day 66: September 2nd 2017
+
+**Today's Progress**: Weekends are for coding!! I continued working  from where I stopped yesterday and I was able to cover more than the normal weekdays.
+
+### Day 67: September 3rd 2017
+
+**Today's Progress**: Went ahead to work on web developer boot camp seems I abandoned the Bad Guy. I can’t wait to start the Backend part of this course.
 
 
 
