@@ -460,7 +460,35 @@ and learnt some console tricks.
 
 **Today's Progress**: Went ahead to work on web developer boot camp seems I abandoned the Bad Guy. I can’t wait to start the Backend part of this course.
 
+### Day 68: September 4th 2017
 
+**Today's Progress**: Week has been dry i ended up ditching sass course don't mind my lazy ass i went back to finish flex box and worked on web development bootcamp.
+
+**Thoughts**: It's been an overwhelming journey and i'm glad am at this point in my life even though i need more improvement in commiment level.
+
+
+### Day 69: September 5th 2017
+
+**Today's Progress**:  I took a break today to regain my self i have been having so bad days lately and found out it affecting my productivity.
+
+
+### Day 70: September 6th 2017
+
+**Today's Progress**: Back on my feet i had  the best time completing the flexbox tutorial by wes bos  officially, worked on web development bootcamp continues.
+
+### Day 71 and 72: September 7th & 8th 2017
+
+**Today's Progress**: My night was spent trying to figure out what firebase is and how it works stumbled on the google codelabs project and fell inlove. it was definateky love at first sight. so i worked on the tutorial and man it was all shades of interesting.
+
+**Link to work**: (friendly chat app) [https://friendlychat-e6bb6.firebaseapp.com/]
+
+### Day 73 and 74: September 9th & 10th 2017
+
+**Today's Progress**: It's the weekend already so had to put in more time to complete spme things i have hanging so i did. completed the Firebase chap app i was working on cntinued sass course worked on web development bootcamp and starting a new project soon.
+
+**Link to work**: (friendly chat app) [https://friendlychat-e6bb6.firebaseapp.com/]
+
+<!-- ### Day 75 and 76: September 11th & 12th 2017 -->
 
 
 
