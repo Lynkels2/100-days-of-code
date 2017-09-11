@@ -488,9 +488,9 @@ and learnt some console tricks.
 
 **Link to work**: [friendly chat app](https://friendlychat-e6bb6.firebaseapp.com/)
 
-<!-- ### Day 75 and 76: September 11th & 12th 2017 -->
+### Day 75 and 76: September 11th & 12th 2017
 
-
+**Today's Progress**: I went back to my usual routine of coding web developer boot camp and flexbox so i did just that.
 
 
 
