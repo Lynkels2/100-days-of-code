@@ -480,13 +480,13 @@ and learnt some console tricks.
 
 **Today's Progress**: My night was spent trying to figure out what firebase is and how it works stumbled on the google codelabs project and fell inlove. it was definateky love at first sight. so i worked on the tutorial and man it was all shades of interesting.
 
-**Link to work**: (friendly chat app) [https://friendlychat-e6bb6.firebaseapp.com/]
+**Link to work**: [friendly chat app](https://friendlychat-e6bb6.firebaseapp.com/)
 
 ### Day 73 and 74: September 9th & 10th 2017
 
 **Today's Progress**: It's the weekend already so had to put in more time to complete spme things i have hanging so i did. completed the Firebase chap app i was working on cntinued sass course worked on web development bootcamp and starting a new project soon.
 
-**Link to work**: (friendly chat app) [https://friendlychat-e6bb6.firebaseapp.com/]
+**Link to work**: [friendly chat app](https://friendlychat-e6bb6.firebaseapp.com/)
 
 <!-- ### Day 75 and 76: September 11th & 12th 2017 -->
 
