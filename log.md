@@ -492,5 +492,25 @@ and learnt some console tricks.
 
 **Today's Progress**: I went back to my usual routine of coding web developer boot camp and flexbox so i did just that.
 
+### Day 77: September 13th 2017 
 
+**Today's Progress**: I completed Flexbox tutorial 🙋🙋 went back to web developer bootcamp i plan on improving time spent on daily progress lately i have been getting lazy but yeah i think i can put in more effort this week let's see how it goes so one course down two more to go Sass course from Scotch.io and Web developer bootcamp from Udemy.
+
+**Thoughts** Hey i'm really sorry i forgot you not been penning this down for quite sometime should put in effort for this too right? i sure will. 
+
+### Day 78 and 79: 	September 14/15th 2017	
+
+**Today's Progress**: So today routine was same ol same old this time with less course to switch from i completed the basic bootstrap and javascript units from the web developer course. i also found something interesting on twitter. An Open source project i could contribute to so i did check it out happens i could fox one of the issues and i did. GUess what guys!! it got merged super excited by the Renowed Wes Bos. Highlight of the day lool. did this between two days.
+
+**Link to work** : [Cobalt2-Vscode] (https://github.com/wesbos/cobalt2-vscode/)
+
+
+### Day 80:	September 16th 2017
+
+**Today's Progress**: Enough of open-source back to reality went back to web developer bootcamp. Now i think calling it that is too long so hencefort it's WDV (Web Developer Bootcamp) and touched a bit of Sass i should finish this already.
+
+
+### Day 81: September 17th 2017
+
+**Today's Progress**: Sunday has to be shortest ever i used the time to write my weekly blogpost went back to WDB set a goal to complete unit 10 and 11.
 
