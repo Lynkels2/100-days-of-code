@@ -502,7 +502,7 @@ and learnt some console tricks.
 
 **Today's Progress**: So today routine was same ol same old this time with less course to switch from i completed the basic bootstrap and javascript units from the web developer course. i also found something interesting on twitter. An Open source project i could contribute to so i did check it out happens i could fox one of the issues and i did. GUess what guys!! it got merged super excited by the Renowed Wes Bos. Highlight of the day lool. did this between two days.
 
-**Link to work** : [Cobalt2-Vscode] (https://github.com/wesbos/cobalt2-vscode/)
+**Link to work** : [Cobalt2-Vscode](https://github.com/wesbos/cobalt2-vscode/)
 
 
 ### Day 80:	September 16th 2017
@@ -513,4 +513,37 @@ and learnt some console tricks.
 ### Day 81: September 17th 2017
 
 **Today's Progress**: Sunday has to be shortest ever i used the time to write my weekly blogpost went back to WDB set a goal to complete unit 10 and 11.
+
+### Day 82: September 18th 2017
+
+**Today's Progress**: Working on section 10 of the web developer bootcamp basic javascript functions spent 2hours doing this and made also checked out other articles on the internet to keep up with the latest trend.
+
+### Day 83: September 19th 2017
+
+**Today's Progress**: Continued working on the WDB this time working on javscript arrays and objects section 12 and 13 i know the course seems repetitive but i just goign through it again for better understanding
+
+### Day 84: September 20th 2017
+
+**Today's Progress**: Now working on section  
+
+### Day 85 : September 21st 2017
+
+**Today's Progress**: Completed the Section 14 from the previous day. that's pretty much it for the day and also spent some time on MDN useful resource.
+
+
+### Day 86 : September 21st 2017
+
+**Today's Progress**: Started the Color Game project  Section 15 this is where I get to test all that I have learned it's also a follow-along coding section but might choose to add some extra features if I like.
+
+
+### Day 87 : September 21st 2017
+
+**Today's Progress**:  Wrapped up work on the color game project I  enjoyed building it. a little description is you get an RGB color code and guess which one it is from options given. Here's what it looks like I'll also appreciate your feedback. Color Guessing Game
+
+**Project worked on** [Color Guessing Game](https://lauragift21.github.io/ColorGuessingGame)
+
+
+### Day 88 : September 21st 2017
+
+**Today's Progress**: Started the next section. which is an introduction to jquery section 16  I rounded up with that and moved on to the next section Advanced Jquery section 17.
 
