@@ -531,19 +531,52 @@ and learnt some console tricks.
 **Today's Progress**: Completed the Section 14 from the previous day. that's pretty much it for the day and also spent some time on MDN useful resource.
 
 
-### Day 86 : September 21st 2017
+### Day 86 : September 22nd 2017
 
 **Today's Progress**: Started the Color Game project  Section 15 this is where I get to test all that I have learned it's also a follow-along coding section but might choose to add some extra features if I like.
 
 
-### Day 87 : September 21st 2017
+### Day 87 : September 23rd 2017
 
 **Today's Progress**:  Wrapped up work on the color game project I  enjoyed building it. a little description is you get an RGB color code and guess which one it is from options given. Here's what it looks like I'll also appreciate your feedback. Color Guessing Game
 
 **Project worked on** [Color Guessing Game](https://lauragift21.github.io/ColorGuessingGame)
 
 
-### Day 88 : September 21st 2017
+### Day 88 : September 24th 2017
 
 **Today's Progress**: Started the next section. which is an introduction to jquery section 16  I rounded up with that and moved on to the next section Advanced Jquery section 17.
+
+
+### Day 89: September 25th 2017 
+
+**Today's Progress**: I completed the Advanced jquery project section 17 now working on the Todolist project i must confess i love jquery.
+
+ 
+### Day 90: September 26th 2017
+
+**Today's Progress**: I completed the Advanced jquery project section 17 now working on the Todolist project i must confess i love jquery.
+
+
+### Day 91: September 27th 2017
+
+**Today's Progress**: Now half way through the color guessing game i have been enjoying the building process so far
+
+**Projects Worked on**: [Color Guessing Game](https://lauragift21.github.io/ColorGuessingGame)
+
+### Day 92: September 28th 2017
+
+**Today's Progress**: Started the last project on the front ebd track Patatap Clone this one is reakly interesting i made it out of paper.js and howler.js.
+
+
+### Day 93: September 29th 2017
+
+**Today's Progress**: Now working on the backend basic of the web development bootcamp i had fin building the project i worked on working on hosting everything on my github pages soon.
+
+
+### Day 94: September 30th 2017
+
+**Today's Progress**: Today was super super lit. i attended forLoopLagos conference and i learnt a lot about building for the next billion users made new friends and met new faces. managed to code a lilttle and wrote my blog post.
+
+
 
