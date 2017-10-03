@@ -555,8 +555,7 @@ and learnt some console tricks.
  
 ### Day 90: September 26th 2017
 
-**Today's Progress**: I completed the Advanced jquery project section 17 now working on the Todolist project i must confess i love jquery.
-
+**Today's Progress**:  Continued the todo list project did this and checked out WordPress to help make a website for a friend.
 
 ### Day 91: September 27th 2017
 
