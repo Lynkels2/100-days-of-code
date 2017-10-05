@@ -552,6 +552,9 @@ and learnt some console tricks.
 
 **Today's Progress**: I completed the Advanced jquery project section 17 now working on the Todolist project i must confess i love jquery.
 
+**Project worked on** [Todo List Jquery](https://lauragift21.github.io/Todolist/)
+
+
  
 ### Day 90: September 26th 2017
 
@@ -563,9 +566,12 @@ and learnt some console tricks.
 
 **Projects Worked on**: [Color Guessing Game](https://lauragift21.github.io/ColorGuessingGame)
 
+
 ### Day 92: September 28th 2017
 
 **Today's Progress**: Started the last project on the front ebd track Patatap Clone this one is reakly interesting i made it out of paper.js and howler.js.
+
+**Projects Worked on**: [Patatap Clone](https://lauragift21.github.io/Patatap)
 
 
 ### Day 93: September 29th 2017
