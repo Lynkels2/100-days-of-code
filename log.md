@@ -478,7 +478,7 @@ and learnt some console tricks.
 
 ### Day 71 and 72: September 7th & 8th 2017
 
-**Today's Progress**: My night was spent trying to figure out what firebase is and how it works stumbled on the google codelabs project and fell inlove. it was definateky love at first sight. so i worked on the tutorial and man it was all shades of interesting.
+**Today's Progress**: My night was spent trying to figure out what firebase is and how it works stumbled on the google codelabs project and fell inlove. it was definately love at first sight. so i worked on the tutorial and man it was all shades of interesting.
 
 **Link to work**: [friendly chat app](https://friendlychat-e6bb6.firebaseapp.com/)
 
@@ -572,10 +572,35 @@ and learnt some console tricks.
 
 **Today's Progress**: Now working on the backend basic of the web development bootcamp i had fin building the project i worked on working on hosting everything on my github pages soon.
 
+**Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
+
 
 ### Day 94: September 30th 2017
 
-**Today's Progress**: Today was super super lit. i attended forLoopLagos conference and i learnt a lot about building for the next billion users made new friends and met new faces. managed to code a lilttle and wrote my blog post.
+**Today's Progress**: Today was super super lit. i attended forLoopLagos conference and i learnt a lot about building for the next billion users made new friends and met new faces. managed to code a little and wrote my blog post.
 
 
+### Day 95:  October 1st 2017
 
+**Today's Progress**: Working on backend basics. learning about Node and also checked out #Hacktoberfest. contributing sound cool.
+
+**Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
+
+
+### Day 96: October 2nd 2017
+
+**Today's Progress**: Completed Node lessons and Npm excersices i was able to do a faker excersice this just taught me the workaround of installing node and npm generally i enjoyed it.
+
+**Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
+
+### Day 97:  October 3rd 2017
+
+**Today's Progress**: I started working on express js partmof the web developer bootcamp i found this part really interesting i was on a marathon to finish all exercises. i now understand some weird things i see while going through some people code on github.
+
+**Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
+
+### Day 98: October 4th 2017
+
+**Today's Progress**:  Completed the intermediate express now working with API’s. Also made 1/4 pull request for #Hacktoberfest. Yeah #hacktoberfest is a movement this month and you get a shirt when you send in four pull request before 31st but i'm not just interested because of the shirt i want to learn more whie at this.
+
+**Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
