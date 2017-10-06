@@ -607,6 +607,20 @@ and learnt some console tricks.
 
 ### Day 98: October 4th 2017
 
-**Today's Progress**:  Completed the intermediate express now working with API’s. Also made 1/4 pull request for #Hacktoberfest. Yeah #hacktoberfest is a movement this month and you get a shirt when you send in four pull request before 31st but i'm not just interested because of the shirt i want to learn more whie at this.
+**Today's Progress**:  Completed the intermediate express now working with API’s. Also made 1/4 pull request for #Hacktoberfest. Yeah #hacktoberfest is a movement this month and you get a shirt when you send in four pull request before 31st but i'm not just interested because of the shirt i want to learn more while at this.
 
 **Github Repo**: [Web Developer Bootcamp](https://github.com/lauragift21/Udemy-web-developer-bootcamp) 
+
+### Day 99: October 5th 2017
+
+**Today's Progress**:  I started working on a Movie Search Project where i get to search for any movie ab d get bits of informatiomtion about this movie using Omdb API had lots of fun making this. Semi-last day to completetion of 100days of code
+
+**Github Repo**: [Movie Search App](https://github.com/lauragift21/MovieSearchApp) 
+
+
+### Day 100: October 6th 2017
+
+**Today's Progress**:  I completed the Movie Search App and also completed 100days of code it has been an overwhelming journey i also startedthe last project on this course YelpCamp hope to wrap up by monday i've gotta suprise from everyone. I might as well do anothe rround of 100daysofcode.
+
+**Github Repo**: [Movie Search App](https://github.com/lauragift21/MovieSearchApp) 
+
